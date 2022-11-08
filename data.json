@@ -1,0 +1,149 @@
+[
+[
+    {
+        "img": "img/chef1.jpeg",
+        "chefName": "Chef Davis Meru",
+        "quote": "Its all about the passion, controlling the fragrances and other fancything that chefs say,,,, lol!!!!"
+    },
+
+    {
+        "img": "img/chef2.jpeg",
+        "chefName": "Chef Mahatma Gandhi",
+        "quote": "well food is delicios and thats i have to put first dont my chef quotes they suck,,, enjoy anyway"
+    },
+
+    {
+        "img": "img/chef3.jpeg",
+        "chefName": "Chef Peter Parker",
+        "quote": "Am gonna put some dirt in your eyes with the delicious food i cook"
+    },
+
+    {
+        "img": "img/chef4.jpeg",
+        "chefName": "Chef Spongebob Bandit",
+        "quote": "Who lives in a pineapple house under the sea,,, fried chicken my specialty"
+    }
+],
+
+[
+    {
+        "category": "main-dish",
+        "img": "img/item1.jpeg",
+        "itemName": "Kentucky Fried Chicken",
+        "price": "Ksh 700",
+        "description": "Thsi chicken is fried soooo nice to leave your mouth yearning for more"
+    },
+
+    {
+        "category": "snacks",
+        "img": "img/item2.jpg",
+        "itemName": "African fries",
+        "price": "Ksh 100",
+        "description": "This potato fries made from the finest potatoes from the finest Kinangop constituency"
+    },
+
+    {
+        "category": "drinks",
+        "img": "img/item3.jpeg",
+        "itemName": "Sugarless coke",
+        "price": "Ksh 70",
+        "description": "The perfect cold beverage to quench your thirst"
+    },
+
+    {
+        "category": "drinks",
+        "img": "img/item4.jpeg",
+        "itemName": "Capuchino coffee",
+        "price": "Ksh 250",
+        "description": "Feeling fatigued,, well this is the drink for you"
+    },
+
+    {
+        "category": "snacks",
+        "img": "img/item5.jpeg",
+        "itemName": "Coastal Mahamri",
+        "price": "Ksh 300",
+        "description": "If this aint the best breakfast snack, i dont know what is"
+    },
+
+    {
+        "category": "main-dish",
+        "img": "img/item6.jpeg",
+        "itemName": "Fried rice",
+        "price": "Ksh 400",
+        "description": "Just suppliment this dish with some chicken and some cold drink and believe you me, you'll spend the rest of the smiling"
+    },
+
+    {
+        "category": "snacks",
+        "img": "img/item7.jpeg",
+        "itemName": "Yakuzas Icecream",
+        "price": "Ksh 70",
+        "description": "Each lick feels better than the last one, made from natural ingredientss, you will love it"
+    },
+
+    {
+        "category": "main-dish",
+        "img": "img/item8.jpeg",
+        "itemName": "African cake(Ugali)",
+        "price": "Ksh 200",
+        "description": "Served with some beef and sukuma prepared with the African love this African dish requires "
+    },
+
+    {
+        "category": "drinks",
+        "img": "img/item9.jpeg",
+        "itemName": "Yoyo yoghurt",
+        "price": "Ksh 150",
+        "description": "Delicious!!!!! just delicious, just get yourself one of this mamacitas!!"
+    },
+
+    {
+        "category": "snacks",
+        "img": "img/item10.jpeg",
+        "itemName": "Manji biscuits",
+        "price": "Ksh 30",
+        "description": "Perfect snack to compliment you coffe or sssome hot milk"
+    },
+
+    {
+        "category": "snacks",
+        "img": "img/item11.jpeg",
+        "itemName": "Fruit Pudding",
+        "price": "Ksh 450",
+        "description": "Some ofthe best of what mother-nature has to offer all served under one plate"
+    },
+
+    {
+        "category": "main-dish",
+        "img": "img/item12.jpeg",
+        "itemName": "Pilau",
+        "price": "Ksh 375",
+        "description": "Will leave you thanking the coastal people for inventing such a beautiful meal"
+    },
+
+    {
+        "category": "drinks",
+        "img": "img/item13.jpeg",
+        "itemName": "Four cousins red wine",
+        "price": "Ksh 1300",
+        "description": "Well, its red wine!!! what do I have to say except,,,,,,ENJOY EVERY SIP!!!"
+    },
+
+    {
+        "category": "main-dish",
+        "img": "img/item14.jpeg",
+        "itemName": "Chinese Special",
+        "price": "Ksh 250",
+        "description": "Evil laugh: hahahaaaa hehehe huuuuuuu hahahahahah"
+    },
+
+    {
+        "category": "snacks",
+        "img": "img/item15.jpeg",
+        "itemName": "Chocolate cake",
+        "price": "Ksh 900",
+        "description": "At this point am out of content i just wanna fill up my Array"
+    }
+]
+]

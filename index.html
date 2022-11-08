@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome to our Restaurant</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="responsiveness.css">
+</head>
+<body>
+    <!-- top header content -->
+    <header>
+        <div class="cart-section">
+            <img src="img/basket-5855.png" alt="">
+            <div class="item-number">
+                <h4 id="cart-items"></h4>
+            </div>
+        </div>
+        <!-- title for smaller screens -->
+        <nav>
+            <div class="title">
+                <h1>Food<span>mart</span></h1>
+            </div>
+
+            <div class="basket">
+                <img src="img/basket-5855.png" alt="">
+            </div>
+        </nav>
+        <!-- title for smaller screens -->
+        <div class="header-content">
+
+            <!-- title for larger screens -->
+        <div class="title" id="main-title">
+            <h1>Food<span>mart</span></h1>
+        </div>
+            <!-- title for larger screens -->
+
+
+        <div class="logo">
+            <div class="logo-overlay">
+                <!-- add dark overlay on smaller devices  -->
+            </div>
+            <img src="img/4-2-food-png.png" alt="">
+            <h5><span>"</span>delicious meal, but no time?? We will deliver it hot and yummy and on time...</h5>
+        </div>
+        <div class="btns">
+            <a href="#menu-section"><input type="button" value="Main Dish" class="filter-btn" data-category="main-dish"></a>
+            <a href="#menu-section"><input type="button" value="Drinks" class="filter-btn" data-category="drinks"></a>
+            <a href="#menu-section"><input type="button" value="Snacks" class="filter-btn" data-category="snacks"></a>
+        </div>
+        <div class="cool-dot">
+            <!-- red header dot -->
+        </div>
+        <div class="account-form">
+            <h4>Join us today to enjoy fast delivery services</h4>
+            <div class="toggle-account-btns">
+                <input type="button" value="+" id="toggle-btn">
+            </div>
+            <div class="account-btns">
+                <input type="button" value="Login">
+                <input type="button" value="Create Account">
+            </div>
+        </div>
+        </div>
+    </header>
+
+    <!-- end of top header content -->
+
+    <!-- menu items section -->
+    <div class="menu-section" id="menu-section">
+        <div class="menu-title">
+            <img src="img/menu.png" alt="">
+        </div>
+        <div class="special-items-section">
+            <h1 id="special-title"> Today's Special </h1>
+            <!-- special items -->
+        </div>
+        <div class="product-category-title">
+            <h1 id="category-title"> Favorites </h1>
+        </div>
+        <div class="menu-items">
+<!-- items displayed using javascript -->
+
+            <!-- single item -->
+            <!-- <div class="item">
+                <div class="item-img">
+                    <img src="img/item8.jpeg" alt="">
+                </div>
+                <div class="item-title-price">
+                    <h4>Cool Biriani</h4>
+                    <h4>Ksh<span>200</span></h4>
+                </div>
+                <div class="item-description">
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam repellendus sit incidunt, sequi exercitationem dolores.</p>
+                </div>
+                <div class="order-btn">
+                    <input type="button" value="Order">
+                </div>
+            </div> -->
+            <!-- end of single item -->
+        </div>
+    </div>
+    <script src="app.js"></script>
+</body>
+</html>
